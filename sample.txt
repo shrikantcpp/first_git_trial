@@ -1,5 +1,9 @@
  1st line : Git commands even a monkey can understand 
 
 2nd line  : second line
+
 4rth line : from first_git_trial
+
+3rd line :from clone
+
 
