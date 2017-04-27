@@ -23,7 +23,9 @@
 
 12th clone : added by clone
 
-13th original : added by orriginal
+13th original/clone : added by orriginal/updated by clone
+
+14th clone : added by clone
 
 
 
