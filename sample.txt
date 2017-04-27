@@ -6,5 +6,9 @@
 
 4rth line : from first_git_trial
 
+5th line : ok friend this is clone and 
+          i got  all updated
+
+
 
 
