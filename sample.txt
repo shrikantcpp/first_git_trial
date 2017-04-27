@@ -2,8 +2,9 @@
 
 2nd line  : second line
 
+3rd line :from clone
+
 4rth line : from first_git_trial
 
-3rd line :from clone
 
 
