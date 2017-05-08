@@ -1,2 +1,4 @@
-1 original :  addded by original
-2 second by trial2
+1 original :  addded by original/updated by trial2
+2 added by original
+3 second  by trial2
+
